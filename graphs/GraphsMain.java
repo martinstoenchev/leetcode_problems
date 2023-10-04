@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class GraphsMain {
 
     private static void dfsRecursive(int V, int ver, ArrayList<ArrayList<Integer>> adj, ArrayList<Integer> result) {
         if (result.size() == V || result.contains(ver)) {

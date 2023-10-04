@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Main {
+public class RecursionMain {
 
     private static void floodFill(int[][] image, int sr, int sc, int oldColor, int newColor) {
         if (sr < 0 || sr >= image.length) {

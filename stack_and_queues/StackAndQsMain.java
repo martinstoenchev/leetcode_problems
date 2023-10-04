@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class StackAndQsMain {
 
     public static boolean balancedBrackets(String x) {
         Deque<Character> deque = new ArrayDeque<>();

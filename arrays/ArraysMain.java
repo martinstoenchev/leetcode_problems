@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class ArraysMain {
 
     private static ArrayList<Integer> subarraySum(int[] arr, int n, int s) {
         ArrayList<Integer> result = new ArrayList<>();

@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
-public class Main {
+public class StringsMain {
 
     public static String reverseWords(String S) {
         String[] words = S.split("\\.");

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class TreesMain {
 
     static class Node {
         int data;
